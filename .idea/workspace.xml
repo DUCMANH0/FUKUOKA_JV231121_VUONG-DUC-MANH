@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d09e338-ac37-4dfc-8c1f-206170d0506e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../backend/PROJECT/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/PROJECT/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/PROJECT/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/PROJECT/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/PROJECT/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/PROJECT/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/PROJECT/PROJECT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/PROJECT/src/Entity/ICategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/PROJECT/src/Entity/IProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/PROJECT/src/Entity/Impl/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/PROJECT/src/Entity/Impl/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/PROJECT/src/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/hw_session3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/hw_session3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/hw_session3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/hw_session3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/hw_session3/hw_session3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/hw_session3/src/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session1/session1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session1/src/average.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session1/src/intToChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session10/session10/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session10/session10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session10/session10/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session10/session10/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session10/session10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session10/session10/session10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session10/session10/src/com/ra/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session10/session10/src/com/ra/entity/IBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session10/session10/src/com/ra/entity/Impl/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session10/session10/src/com/ra/exception/BookInputException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session10/session10/src/com/ra/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session10/session10/src/com/ra/service/Impl/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session11/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session11/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session11/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session11/session11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session11/session11/session11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session11/session11/src/com/rikkeiacademy/application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session11/session11/src/com/rikkeiacademy/funcional/MyFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session11/session11/src/com/rikkeiacademy/service/GeneralService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session11/session11/src/com/rikkeiacademy/service/impl/GeneralServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session11/session11/src/com/rikkeiacademy/service/impl/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session11/src/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session11/src/application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session2/session2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session2/src/hw_session2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session3class-object/session3class-object.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session3class-object/src/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session3class-object/src/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session4/session4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session4/src/Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session4/src/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session4/src/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session4/src/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session4/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session5/session5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session5/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session5/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session5/src/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session5/src/StaticMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session5/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session5/src/library/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session5/src/library/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/session5/src/library/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/bai1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/bai1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/bai1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/bai1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/bai1/bai1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/baiemail/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/baiemail/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/baiemail/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/baiemail/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/baiemail/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/baiemail/baiemail.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/baiemail/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/baiemail/src/ManagerHotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/baiemail/src/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/baitap/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/baitap/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/baitap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/baitap/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/baitap/baitap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/baitap/src/Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/baitap001/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/baitap001/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/baitap001/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/baitap001/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/baitap001/baitap001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/baitap001/src/IStudentsManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/baitap001/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/baitap001/src/StudentClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/fileandexceptionsession1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/fileandexceptionsession1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/fileandexceptionsession1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/fileandexceptionsession1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/fileandexceptionsession1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/fileandexceptionsession1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/fileandexceptionsession1/fileandexceptionsession1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/fileandexceptionsession1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/fileandexceptionsession1/src/ReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/fileandexceptionsession1/src/emtity/impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/fileandexceptionsession1/src/exception/inputexception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/fileandexceptionsession1/src/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/fileandexceptionsession1/src/service/sourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/lession2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/lession2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/lession2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/lession2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/lession2/lession2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/lession2/src/example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/lesson1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/lesson1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/lesson1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/lesson1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/lesson1/lesson1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/lesson1/src/lesson1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/session3class-object/Product/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/session3class-object/Product/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/session3class-object/Product/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/session3class-object/Product/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/session3class-object/Product/Product.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/session3class-object/Product/src/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/session3class-object/Product/src/product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/session3class-object/Product/src/program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/untitle/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/untitle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/untitle/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/untitle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/untitle/src/lesson2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/thứ7/untitle/untitle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/tuhocjava/bai11_2giaibaitapjava05/bai11_2giaibaitapjava05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/tuhocjava/bai11_2giaibaitapjava05/src/bai11_5giaibt08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/tuhocjava/bai11_2giaibaitapjava05/src/bai11_6gaibt09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/tuhocjava/bai11_2giaibaitapjava05/src/bai11_giaibt07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backend/tuhocjava/bai11_2giaibaitapjava05/src/bai_3giaibaitap06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/databaseTest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/databaseTest/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/databaseTest/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/databaseTest/.idea/libraries/mysql_connector_java_8_0_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/databaseTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/databaseTest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/databaseTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/databaseTest/databaseTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/databaseTest/src/MySQLConnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/demo1/src/main/java/StudentServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/demo1/src/main/java/org/example/demo1/StudentServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/demo1/src/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/demo2/src/main/java/com/demo/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/mdl3_PROJECT/.idea/libraries/mysql_connector_java_8_0_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/mdl3_PROJECT/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/mdl3_PROJECT/mdl3_PROJECT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/mdl3_PROJECT/src/DAO/account/AccountDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/mdl3_PROJECT/src/DAO/account/AccountDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/mdl3_PROJECT/src/DAO/bill/BillDetailDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/mdl3_PROJECT/src/DAO/bill/BillDetailDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/mdl3_PROJECT/src/DAO/product/ProductDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/mdl3_PROJECT/src/DAO/product/ProductDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/mdl3_PROJECT/src/DAO/receipt/BillDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/mdl3_PROJECT/src/DAO/receipt/BillDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/mdl3_PROJECT/src/Util/ConnectionDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/mdl3_PROJECT/src/entity/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/mdl3_PROJECT/src/entity/Bill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/mdl3_PROJECT/src/entity/BillDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/mdl3_PROJECT/src/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/mdl3_PROJECT/src/program/program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/session07-JDBC/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/session07-JDBC/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/session07-JDBC/.idea/libraries/mysql_connector_java_8_0_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/session07-JDBC/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/session07-JDBC/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/session07-JDBC/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/session07-JDBC/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/session07-JDBC/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/session07-JDBC/session07-JDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/session07-JDBC/src/Entity/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/session07-JDBC/src/Entity/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/session07-JDBC/src/Util/ConnectionDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/session07-JDBC/src/dao/AccountDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/session07-JDBC/src/dao/AccountDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/session07-JDBC/src/dao/CategoryDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/session07-JDBC/src/dao/CategoryDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/session07-JDBC/src/program/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/session6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/session6/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/session6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/session6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/session6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/session6/session6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/session6/src/src/com/ra/ProductEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../database/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam_JavaCore.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Entity/IDepartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Entity/IEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Entity/Impl/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Entity/Impl/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1-html-basic/baitap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1-html-basic/lythuyet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1-html-basic/thuchanh.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2gwuBh57SfYs6W4BXRzoz3LDGTg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BasicManagement.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/vuongmanh/Desktop/fukuoka module01/mdl4/Exam_JavaCore/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d09e338-ac37-4dfc-8c1f-206170d0506e" name="Changes" comment="" />
+      <created>1716620828326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716620828326</updated>
+      <workItem from="1716620829609" duration="604000" />
+      <workItem from="1716621671154" duration="1796000" />
+      <workItem from="1716623704953" duration="152000" />
+      <workItem from="1716624005009" duration="1135000" />
+      <workItem from="1716625190277" duration="439000" />
+      <workItem from="1716625677022" duration="32000" />
+      <workItem from="1716625769542" duration="565000" />
+      <workItem from="1716626357881" duration="103000" />
+      <workItem from="1716626484595" duration="873000" />
+      <workItem from="1716627619676" duration="1250000" />
+      <workItem from="1716629383681" duration="499000" />
+      <workItem from="1716630009310" duration="199000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
